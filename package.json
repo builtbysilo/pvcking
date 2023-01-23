@@ -1,5 +1,5 @@
 {
-  "name": "next-netlify-starter",
+  "name": "pvcking",
   "version": "0.5.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,14 @@
     "export": "next export"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "cypress": "^10.0.3",
-    "next": "^12.1.5",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "eslint-config-next": "^13.1.5",
+    "framer-motion": "^8.5.2",
+    "next": "^13.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
